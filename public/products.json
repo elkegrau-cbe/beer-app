@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Ammerndorfer", "category": "Hell", "price": "4" },
+  { "id": 2, "name": "Bayreuther", "category": "Hell", "price": "4" },
+  { "id": 3, "name": "Gutmann", "category": "Weizen", "price": "4" },
+  { "id": 4, "name": "Meister", "category": "Dunkel", "price": "4" },
+  { "id": 5, "name": "Mahrs", "category": "Dunkel", "price": "3" },
+  { "id": 6, "name": "Reh", "category": "Pils", "price": "3.50" }
+]
