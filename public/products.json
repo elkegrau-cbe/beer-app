@@ -4,5 +4,8 @@
   { "id": 3, "name": "Gutmann", "category": "Weizen", "price": "4" },
   { "id": 4, "name": "Meister", "category": "Dunkel", "price": "4" },
   { "id": 5, "name": "Mahrs", "category": "Dunkel", "price": "3" },
-  { "id": 6, "name": "Reh", "category": "Pils", "price": "3.50" }
+  { "id": 6, "name": "Reh", "category": "Hell", "price": "3.50" },
+  { "id": 7, "name": "Reh", "category": "Dunkel", "price": "3.50" },
+  { "id": 8, "name": "Reh", "category": "Pils", "price": "3.50" },
+  { "id": 9, "name": "Zeltner", "category": "Keller", "price": "4.50" }
 ]
