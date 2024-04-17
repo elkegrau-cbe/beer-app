@@ -59,6 +59,7 @@ header {
 }
 footer {
   text-align: center;
-  margin-top: 70px;
+  margin-top: 40px;
+  font-size: small;
 }
 </style>
