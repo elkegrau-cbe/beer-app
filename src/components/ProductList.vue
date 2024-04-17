@@ -155,7 +155,7 @@ select {
 
 .product-item {
   border: 1px solid #ccc;
-  padding: 10px;
+  padding: 4px;
   background-color: #f9f9f9;
 }
 </style>
