@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Ammerndorfer", "category": "Hell", "price": "4" },
+  { "id": 2, "name": "Ammerndorfer", "category": "Dunkel", "price": "4" },
+  { "id": 3, "name": "Bayreuther", "category": "Hell", "price": "4" },
+  { "id": 4, "name": "Drummer", "category": "Hell", "price": "4" },
+  { "id": 5, "name": "Drummer", "category": "Dunkel", "price": "4" },
+  { "id": 6, "name": "Huppendorfer", "category": "Hell", "price": "3.50" },
+  { "id": 5, "name": "Pyraser", "category": "Keller", "price": "4" },
+  { "id": 11, "name": "Krug", "category": "Dunkel", "price": "4" },
+  { "id": 7, "name": "Gutmann", "category": "Weizen", "price": "4" },
+  { "id": 9, "name": "Meister", "category": "Dunkel", "price": "4" },
+  { "id": 10, "name": "Mahrs", "category": "Dunkel", "price": "3" },
+  { "id": 16, "name": "Reh", "category": "Hell", "price": "3.50" },
+  { "id": 17, "name": "Reh", "category": "Dunkel", "price": "3.50" },
+  { "id": 18, "name": "Reh", "category": "Pils", "price": "3.50" },
+  { "id": 19, "name": "Zeltner", "category": "Keller", "price": "4.50" }
+]
